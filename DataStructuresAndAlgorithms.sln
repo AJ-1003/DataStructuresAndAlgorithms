@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stacks", "Stacks", "{56FAFCC4-20D1-45FF-9150-6E195DA7FFD6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Queues", "Queues", "{F6B33179-6552-4389-ACFA-9BFEBC331A68}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Binary Trees", "Binary Trees", "{E55EAD81-AA3A-44E2-88DC-237385625B27}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Binary Search Tree", "Binary Search Tree", "{E10EB261-06DE-462F-84B4-028832039807}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Heaps", "Heaps", "{3B3E6726-7849-4657-BB5D-CFCE1F140F48}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hashing", "Hashing", "{AA2748B3-7F7A-4F21-84FE-E6956747EFFB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sorting Algorithms", "Sorting Algorithms", "{E49C9F99-D715-4F7D-BB49-47F8BC5BFA78}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Graphs", "Graphs", "{8FAD9E12-CB05-4FE7-B7BA-D4F5EE94ABAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stacks.App", "Stacks.App\Stacks.App.csproj", "{E5826001-5226-4F79-8DE6-44F025460A6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stacks.CL", "Stacks.CL\Stacks.CL.csproj", "{94F40183-F226-4229-B637-AD6AF69ECB13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5826001-5226-4F79-8DE6-44F025460A6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5826001-5226-4F79-8DE6-44F025460A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5826001-5226-4F79-8DE6-44F025460A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5826001-5226-4F79-8DE6-44F025460A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94F40183-F226-4229-B637-AD6AF69ECB13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F40183-F226-4229-B637-AD6AF69ECB13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F40183-F226-4229-B637-AD6AF69ECB13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F40183-F226-4229-B637-AD6AF69ECB13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E5826001-5226-4F79-8DE6-44F025460A6C} = {56FAFCC4-20D1-45FF-9150-6E195DA7FFD6}
+		{94F40183-F226-4229-B637-AD6AF69ECB13} = {56FAFCC4-20D1-45FF-9150-6E195DA7FFD6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60F98AAC-DB8A-4335-AE8C-AB35DB1BE852}
+	EndGlobalSection
+EndGlobal
